@@ -488,18 +488,26 @@
   font-stretch: normal;
   text-decoration: none;
 }
- 
-.i-phone1415-pro-max5-thq-frame-button-elm {
+
+.i-phone1415-pro-max5-add-food-link {
   top: 10px;
   left: 354px;
   width: 26px;
   height: 29px;
-  display: flex;
   position: absolute;
+  cursor: pointer;
+  z-index: 20;
+}
+
+.i-phone1415-pro-max5-thq-frame-button-elm {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  position: relative;
   align-items: flex-start;
   flex-shrink: 1;
 }
- 
+
 .i-phone1415-pro-max5-thq-ellipse10-elm {
   top: 3px;
   left: 0px;
