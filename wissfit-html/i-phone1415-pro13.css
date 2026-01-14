@@ -656,15 +656,23 @@
   font-stretch: normal;
   text-decoration: none;
 }
- 
-.i-phone1415-pro13-thq-vector-elm2 {
+
+.i-phone1415-pro13-back-link {
   top: 98px;
   left: 10px;
   width: 46px;
   height: 30px;
   position: absolute;
+  cursor: pointer;
+  z-index: 10;
 }
- 
+
+.i-phone1415-pro13-thq-vector-elm2 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
 .i-phone1415-pro13-link {
   display: contents;
 }

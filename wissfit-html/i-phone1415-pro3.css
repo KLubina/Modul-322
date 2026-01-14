@@ -372,6 +372,8 @@
   align-items: flex-start;
   flex-shrink: 0;
   background-color: rgba(253, 253, 253, 0.5299999713897705);
+  z-index: 100;
+  cursor: pointer;
 }
  
 .i-phone1415-pro3-thq-text-elm18 {
@@ -416,6 +418,7 @@
   position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
+  pointer-events: none;
 }
  
 .i-phone1415-pro3-thq-layer1-elm1 {
@@ -427,6 +430,7 @@
   position: absolute;
   align-items: flex-start;
   flex-shrink: 1;
+  pointer-events: none;
 }
  
 .i-phone1415-pro3-thq-stats-diagramm1-elm {
@@ -439,6 +443,7 @@
   position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
+  pointer-events: none;
 }
  
 .i-phone1415-pro3-thq-layer1-elm2 {
