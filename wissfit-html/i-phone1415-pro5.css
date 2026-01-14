@@ -1,0 +1,552 @@
+.i-phone1415-pro5-container1 {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.i-phone1415-pro5-thq-i-phone1415-pro5-elm {
+  width: 100%;
+  height: 852px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.i-phone1415-pro5-thq-text-elm1 {
+  top: 114px;
+  left: 73px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1415-pro5-thq-group1-elm {
+  top: 650px;
+  left: 77px;
+  width: 240px;
+  height: 64px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+ 
+.i-phone1415-pro5-thq-text-elm2 {
+  top: 27px;
+  left: 54px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 10px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1415-pro5-thq-framebung-details-elm {
+  top: 185px;
+  left: 0px;
+  width: 393px;
+  height: 408px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 0.5299999713897705);
+}
+ 
+.i-phone1415-pro5-thq-essenerfassen-elm {
+  top: 42px;
+  left: 19px;
+  width: 356px;
+  height: 366px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.i-phone1415-pro5-thq-text-elm3 {
+  left: 1px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1415-pro5-thq-rectangle4-elm {
+  top: 0px;
+  left: 187px;
+  width: 168px;
+  height: 28px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro5-thq-text-elm4 {
+  top: 160px;
+  left: 1px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1415-pro5-thq-rectangle5-elm {
+  top: 160px;
+  left: 188px;
+  width: 168px;
+  height: 28px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro5-thq-text-elm5 {
+  top: 219px;
+  left: 1px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1415-pro5-thq-rectangle6-elm {
+  top: 219px;
+  left: 188px;
+  width: 168px;
+  height: 28px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro5-thq-text-elm6 {
+  top: 278px;
+  left: 1px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1415-pro5-thq-rectangle7-elm {
+  top: 278px;
+  left: 188px;
+  width: 168px;
+  height: 28px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro5-thq-text-elm7 {
+  top: 337px;
+  left: 1px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1415-pro5-thq-rectangle8-elm {
+  top: 337px;
+  left: 188px;
+  width: 168px;
+  height: 28px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro5-thq-text-elm8 {
+  top: 59px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1415-pro5-thq-rectangle9-elm {
+  top: 59px;
+  left: 187px;
+  width: 168px;
+  height: 28px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro5-thq-text-elm9 {
+  top: 155px;
+  left: 79px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1415-pro5-thq-footer-elm {
+  top: 770px;
+  left: 0px;
+  width: 393px;
+  height: 82px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+ 
+.i-phone1415-pro5-thq-statistikbutton-elm {
+  top: 10px;
+  left: 90px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.i-phone1415-pro5-thq-increase-elm {
+  top: 5px;
+  left: 4px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro5-thq-ellipse1-elm {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.i-phone1415-pro5-thq-homebutton-elm {
+  top: 10px;
+  left: 13px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.i-phone1415-pro5-thq-home-elm {
+  top: 4px;
+  left: 5px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro5-thq-ellipse7-elm {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.i-phone1415-pro5-thq-kalenderbutton-elm {
+  top: 10px;
+  left: 319px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.i-phone1415-pro5-thq-calendar-elm {
+  top: 6px;
+  left: 6px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro5-thq-ellipse6-elm {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.i-phone1415-pro5-thq-fitnessbutton-elm {
+  top: 10px;
+  left: 243px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.i-phone1415-pro5-thq-ellipse3-elm {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.i-phone1415-pro5-thq-barbell-elm {
+  top: 4px;
+  left: 4px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro5-thq-essenbutton-elm1 {
+  top: 10px;
+  left: 167px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.i-phone1415-pro5-thq-ellipse9-elm1 {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.5);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.i-phone1415-pro5-thq-apple-fruit-elm1 {
+  top: 3px;
+  left: 1px;
+  width: 57px;
+  height: 55px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro5-thq-header-elm {
+  top: 0px;
+  left: 0px;
+  width: 393px;
+  height: 82px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.i-phone1415-pro5-thq-rectangle2-elm {
+  top: 0px;
+  left: 0px;
+  width: 393px;
+  height: 82px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro5-thq-profilbutton-elm {
+  top: 13px;
+  left: 14px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.i-phone1415-pro5-thq-vector-elm {
+  top: 5px;
+  left: 7px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro5-thq-ellipse4-elm {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.i-phone1415-pro5-thq-einstellungsbutton-elm {
+  top: 13px;
+  left: 320px;
+  width: 60px;
+  height: 61px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.i-phone1415-pro5-thq-ellipse8-elm {
+  top: 1px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.i-phone1415-pro5-thq-gear-elm {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro5-thq-essenbutton-elm2 {
+  top: 10px;
+  left: 167px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.i-phone1415-pro5-thq-ellipse9-elm2 {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.i-phone1415-pro5-thq-apple-fruit-elm2 {
+  top: 3px;
+  left: 1px;
+  width: 57px;
+  height: 55px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro5-link {
+  display: contents;
+}
+ 
+.i-phone1415-pro5-container2 {
+  right: 50px;
+  border: 1px solid #ffffff5c;
+  bottom: 30px;
+  display: flex;
+  z-index: 22;
+  position: fixed;
+  box-shadow: 5px 5px 10px 0px rgba(31, 31, 31, 0.4);
+  min-height: auto;
+  align-items: center;
+  padding-top: 8px;
+  padding-left: 12px;
+  border-radius: 8px;
+  padding-right: 12px;
+  padding-bottom: 8px;
+  backdrop-filter: blur(6px);
+  background-color: rgba(41, 41, 41, 0.41);
+}
+ 
+.i-phone1415-pro5-icon1 {
+  width: 24px;
+  margin-right: 4px;
+}
+ 
+.i-phone1415-pro5-text {
+  color: white;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}

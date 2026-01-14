@@ -1,0 +1,443 @@
+.i-phone1415-pro2-container1 {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.i-phone1415-pro2-thq-i-phone1415-pro2-elm {
+  width: 100%;
+  height: 852px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.i-phone1415-pro2-thq-button3-training-elm {
+  top: 122px;
+  left: 31px;
+  width: 331px;
+  height: 247px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+ 
+.i-phone1415-pro2-thq-image1-elm {
+  top: 0px;
+  left: 0px;
+  width: 331px;
+  height: 247px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro2-thq-text-elm1 {
+  top: 21px;
+  left: 69px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Istok Web;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1415-pro2-thq-button2-ernhrung-elm {
+  top: 416px;
+  left: 171px;
+  width: 191px;
+  height: 314px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+ 
+.i-phone1415-pro2-thq-image2-elm {
+  top: 0px;
+  left: 0px;
+  width: 191px;
+  height: 314px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro2-thq-image3-elm {
+  top: 0px;
+  left: 0px;
+  width: 191px;
+  height: 314px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro2-thq-text-elm2 {
+  top: 10px;
+  left: 40px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Istok Web;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1415-pro2-thq-button1-lvl-elm {
+  top: 416px;
+  left: 31px;
+  width: 120px;
+  height: 314px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+ 
+.i-phone1415-pro2-thq-unbenannt1-elm {
+  top: 64px;
+  left: 0px;
+  width: 120px;
+  height: 250px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro2-thq-text-elm3 {
+  top: 10px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 88px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Istok Web;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1415-pro2-thq-footer-elm {
+  top: 770px;
+  left: 0px;
+  width: 393px;
+  height: 82px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+ 
+.i-phone1415-pro2-thq-statistikbutton-elm {
+  top: 10px;
+  left: 90px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.i-phone1415-pro2-thq-increase-elm {
+  top: 5px;
+  left: 4px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro2-thq-ellipse1-elm {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.i-phone1415-pro2-thq-homebutton-elm1 {
+  top: 10px;
+  left: 13px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.i-phone1415-pro2-thq-home-elm1 {
+  top: 4px;
+  left: 5px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro2-thq-ellipse7-elm1 {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.5);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.i-phone1415-pro2-thq-kalenderbutton-elm {
+  top: 10px;
+  left: 319px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.i-phone1415-pro2-thq-calendar-elm {
+  top: 6px;
+  left: 6px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro2-thq-ellipse6-elm {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.i-phone1415-pro2-thq-fitnessbutton-elm {
+  top: 10px;
+  left: 243px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.i-phone1415-pro2-thq-ellipse3-elm {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.i-phone1415-pro2-thq-barbell-elm {
+  top: 4px;
+  left: 4px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro2-thq-essenbutton-elm {
+  top: 10px;
+  left: 167px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.i-phone1415-pro2-thq-ellipse9-elm {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.i-phone1415-pro2-thq-apple-fruit-elm {
+  top: 3px;
+  left: 1px;
+  width: 57px;
+  height: 55px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro2-thq-header-elm {
+  top: 0px;
+  left: 0px;
+  width: 393px;
+  height: 82px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.i-phone1415-pro2-thq-rectangle2-elm {
+  top: 0px;
+  left: 0px;
+  width: 393px;
+  height: 82px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro2-thq-profilbutton-elm {
+  top: 13px;
+  left: 14px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.i-phone1415-pro2-thq-vector-elm {
+  top: 5px;
+  left: 7px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro2-thq-ellipse4-elm {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.i-phone1415-pro2-thq-einstellungsbutton-elm {
+  top: 13px;
+  left: 320px;
+  width: 60px;
+  height: 61px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.i-phone1415-pro2-thq-ellipse8-elm {
+  top: 1px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.i-phone1415-pro2-thq-gear-elm {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro2-thq-homebutton-elm2 {
+  top: 13px;
+  left: 167px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.i-phone1415-pro2-thq-home-elm2 {
+  top: 4px;
+  left: 5px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro2-thq-ellipse7-elm2 {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.i-phone1415-pro2-link {
+  display: contents;
+}
+ 
+.i-phone1415-pro2-container2 {
+  right: 50px;
+  border: 1px solid #ffffff5c;
+  bottom: 30px;
+  display: flex;
+  z-index: 22;
+  position: fixed;
+  box-shadow: 5px 5px 10px 0px rgba(31, 31, 31, 0.4);
+  min-height: auto;
+  align-items: center;
+  padding-top: 8px;
+  padding-left: 12px;
+  border-radius: 8px;
+  padding-right: 12px;
+  padding-bottom: 8px;
+  backdrop-filter: blur(6px);
+  background-color: rgba(41, 41, 41, 0.41);
+}
+ 
+.i-phone1415-pro2-icon1 {
+  width: 24px;
+  margin-right: 4px;
+}
+ 
+.i-phone1415-pro2-text {
+  color: white;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}
