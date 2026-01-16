@@ -1,3 +1,3 @@
 [🌐 WissFit-Prototyp – Hosted](https://klubina.github.io/Modul-322/wissfit-html/index.html)
 
-[🎨 Figma-Prototyp ](https://www.figma.com/proto/2EBgWP9ttxcRmOFXBTncvt/WissFit?node-id=90-3&p=f&t=sfF37S9rYRRANrAo-1&scaling=min-zoom&content-scaling=fixed&page-id=90%3A2&starting-point-node-id=90%3A3)
+[🎨 Figma-Prototyp ](https://www.figma.com/proto/2EBgWP9ttxcRmOFXBTncvt/WissFit?node-id=0-1&t=C13FB1RVJoZPF180-1)
